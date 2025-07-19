@@ -211,7 +211,6 @@ Smart contract ABIs are stored in `abis/`:
 - **Batch Operations**: Multicall support reduces RPC calls by up to 100x
 - **Memory Efficient**: Smart pointer usage and optimized data structures
 - **High Precision**: GMP library handles large numbers without precision loss
-- **Concurrent Safe**: Thread-safe design for multi-threaded applications
 - **Minimal Dependencies**: Lightweight with essential libraries only
 
 ## Advanced Usage
